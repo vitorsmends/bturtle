@@ -23,6 +23,8 @@
   <depend>robot_state_publisher</depend>
   <depend>gazebo_ros_pkgs</depend>
   <depend>ros2launch</depend>
+  <depend>ros2_control</depend>
+  <depend>ros2_controllers</depend>
   <export>
     <build_type>ament_cmake</build_type>
   </export>
